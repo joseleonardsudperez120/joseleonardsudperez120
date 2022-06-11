@@ -7,6 +7,8 @@ Atualmente estou estudando desenvolvimento de sistema no SENAC e sou aluno da pl
 <div align="center">
   <a href="https://github.com/joseleonardsudperez120">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseleonardsudperez120&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  Curso de Python
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseleonardsudperez120&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
