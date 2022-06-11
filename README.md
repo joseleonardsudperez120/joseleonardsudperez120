@@ -1,5 +1,9 @@
-## Oiii eu sou Jose Leonardo Perez, Desenvolvedor Full Stack!
+## Oiii eu sou Jose Leonardo Perez, Desenvolvedor Full Stack! 
 Atualmente estou estudando desenvolvimento de sistema no SENAC e sou aluno da plataforma Staart onde estou aprendendo diversas tecnologias.
+![github-394322_960_720](https://user-images.githubusercontent.com/95552329/173199125-217f98f9-2783-4b21-bd0f-9ebd50a48e38.png)
+
+🥇
+
 <div align="center">
   <a href="https://github.com/joseleonardsudperez120">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseleonardsudperez120&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
